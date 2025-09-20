@@ -1,2 +1,2 @@
 # linux-scripts
-Custom scripts I made for using linux
+Custom scripts and functions/commands I made for using linux
